@@ -13,6 +13,7 @@
         "_locales/zh-tw/Huskylens-strings.json",
         "BitIR.ts",
         "shims.d.ts",
+        "enums.d.ts",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
